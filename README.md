@@ -1,12 +1,28 @@
-Manual Test Case & Bug Reports
-This repository contains manual test cases and bug reports, including screenshots and documentation for software testing activities.
+## 📋 Manual Test Cases & Bug Reports
 
-Contents
-Screenshots of test cases and bugs
-Test case documentation
-Bug report details
-How to Use
-Review the screenshots for visual references of issues and test results.
-Refer to the documentation for step-by-step test cases and bug descriptions.
-Contributing
-Feel free to submit new test cases or bug reports by opening an issue or pull request.
+This repository includes **manual testing artifacts** such as detailed test cases, bug reports, and supporting screenshots. These resources document testing activities performed during the QA process.
+
+---
+
+### 📂 Contents
+- 🖼 **Screenshots** — Visual references for test execution and identified bugs  
+- 📄 **Test Case Documentation** — Step-by-step scenarios, expected results, and actual outcomes  
+- 🐞 **Bug Report Details** — Descriptions, reproduction steps, severity, and priority levels  
+
+---
+
+### 🔍 How to Use
+1. **Review screenshots** for quick visual context on test execution and defects.  
+2. **Open documentation** for complete test case steps, expected vs. actual results, and bug descriptions.  
+3. Use these artifacts to **reproduce issues** or validate fixes.
+
+---
+
+### 🤝 Contributing
+- To add new test cases or bug reports, **open an Issue** or **submit a Pull Request**.  
+- Ensure documentation is clear and includes:
+  - Test case ID or Bug ID
+  - Preconditions
+  - Steps to reproduce (for bugs)
+  - Expected and actual results
+  - Screenshots (if available)
